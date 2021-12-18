@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-一个想要在大学里尝试转理科的文科人。
-最近在自学python。想写个文字小游戏作为练手作业。
+
